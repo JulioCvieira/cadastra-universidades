@@ -1,12 +1,10 @@
 ----------------------------------------------------------------------------
-Este é o arquivo README do projeto. Você deve descrever aqui o seu projeto.
-Informe ao usuário (alguém que não sabe nada sobre este projeto!) tudo que
-ele/ela precisa saber. Os comentários devem incluir, pelo menos:
+TRABALHANDO COM ARRAYS
 ------------------------------------------------------------------------
 
-TÍTULO DO PROJETO:
-OBJETIVO DO PROJETO:
+TÍTULO DO PROJETO: Cadastro de Universidades
+OBJETIVO DO PROJETO: Mostra habilidades usando herança e polimorfismo e arrays.
 VERSÃO ou DATA:
 COMO INICIAR O PROJETO:
-AUTORES:
+AUTORES: Eu.
 INSTRUÇÕES PARA O USUÁRIO:
